@@ -17,12 +17,28 @@ Implement a 4-bit binary counter using 4 LEDs connected to digital pins. The cou
 
 Create a counter that displays numbers from 1 to 40 on a 7-segment display (or two displays). After reaching 40, the count resets to 1
 
+ Arduino Uno and breadboard along with jumper wires used in all projects:
  
 PROJECT 1:
+Components used:
+LED
+Push button
+220 ohm resistor
+
 https://www.tinkercad.com/things/dpb0kCmjIPS-led
 
+
 PROJECT 2:
+Components used:
+4x LED
+4x 220 ohm resistor
+
 https://www.tinkercad.com/things/gyns5jAEchJ-4bit-counter
 
+
 PROJECT 3:
+Components used:
+2x 7 seg display
+4x 220 ohm resistor
+
 https://www.tinkercad.com/things/3TakU57qh2G-7-seg-counter
